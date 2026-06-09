@@ -29,7 +29,7 @@ O(1)
 Clone the repository:
 
 ```bash
-git clone <url>
+git clone https://github.com/onesiteforpromotion81/NIXPLAY_TASK.git
 ```
 
 Run the solution and tests:
